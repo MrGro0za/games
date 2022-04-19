@@ -579,7 +579,7 @@ reaction3.on("collect", r => {
     })
 }
 });
-const devs = ["472951521798127626"]
+const devs = ["311268449181630464"]
 
 const adminprefix = "#";
 client.on('message', message => {
@@ -626,4 +626,4 @@ client.on('message', message => {
     }
   
   });
-client.login('token');
+client.login('NzQzMDQ0MDAyMzk1NDU1NTQ5.XzO7pw.ihpTmDtxgcqvs4uZ0jJAsqql6zU');
